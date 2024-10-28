@@ -130,4 +130,4 @@ At this case the result must be : `(12*20) + (((12*20)*25)/100) = 200 + 50 = 300
 Distributed under the **ISC** License.
 
 ## Credit
-Hassan Sedaghati [@CHATi](https://github.com/chati74)
+Hassan Sedaghati [@sedaghati74](https://github.com/sedaghati74)
